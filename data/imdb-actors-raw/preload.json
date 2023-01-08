@@ -1,0 +1,1143 @@
+{
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"600\" height=\"400\"><g stroke=\"#00000055\" stroke-opacity=\"0.6\"><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"60\" y2=\"209.41176470588235\" idx=\"173\"/><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"229.41176470588235\" y2=\"77.64705882352942\" idx=\"172\"/><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"342.3529411764706\" y2=\"265.88235294117646\" idx=\"171\"/><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"172.94117647058823\" y2=\"284.7058823529412\" idx=\"170\"/><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"483.52941176470586\" y2=\"322.3529411764706\" idx=\"169\"/><line stroke-width=\"10\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"511.7647058823529\" y2=\"134.11764705882354\" idx=\"168\"/><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"167\"/><line stroke-width=\"5\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"427.05882352941177\" y2=\"341.1764705882353\" idx=\"166\"/><line stroke-width=\"10\" x1=\"257.6470588235294\" y1=\"171.76470588235296\" x2=\"285.88235294117646\" y2=\"96.47058823529412\" idx=\"165\"/><line stroke-width=\"10\" x1=\"60\" y1=\"209.41176470588235\" x2=\"229.41176470588235\" y2=\"77.64705882352942\" idx=\"164\"/><line stroke-width=\"15\" x1=\"60\" y1=\"209.41176470588235\" x2=\"342.3529411764706\" y2=\"265.88235294117646\" idx=\"163\"/><line stroke-width=\"5\" x1=\"60\" y1=\"209.41176470588235\" x2=\"172.94117647058823\" y2=\"284.7058823529412\" idx=\"162\"/><line stroke-width=\"10\" x1=\"60\" y1=\"209.41176470588235\" x2=\"483.52941176470586\" y2=\"322.3529411764706\" idx=\"161\"/><line stroke-width=\"5\" x1=\"60\" y1=\"209.41176470588235\" x2=\"511.7647058823529\" y2=\"134.11764705882354\" idx=\"160\"/><line stroke-width=\"5\" x1=\"60\" y1=\"209.41176470588235\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"159\"/><line stroke-width=\"5\" x1=\"60\" y1=\"209.41176470588235\" x2=\"285.88235294117646\" y2=\"96.47058823529412\" idx=\"158\"/><line stroke-width=\"10\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"342.3529411764706\" y2=\"265.88235294117646\" idx=\"157\"/><line stroke-width=\"5\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"172.94117647058823\" y2=\"284.7058823529412\" idx=\"156\"/><line stroke-width=\"5\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"483.52941176470586\" y2=\"322.3529411764706\" idx=\"155\"/><line stroke-width=\"5\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"511.7647058823529\" y2=\"134.11764705882354\" idx=\"154\"/><line stroke-width=\"15\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"153\"/><line stroke-width=\"5\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"427.05882352941177\" y2=\"341.1764705882353\" idx=\"152\"/><line stroke-width=\"5\" x1=\"229.41176470588235\" y1=\"77.64705882352942\" x2=\"144.70588235294116\" y2=\"58.82352941176471\" idx=\"151\"/><line stroke-width=\"5\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"172.94117647058823\" y2=\"284.7058823529412\" idx=\"150\"/><line stroke-width=\"10\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"483.52941176470586\" y2=\"322.3529411764706\" idx=\"149\"/><line stroke-width=\"10\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"511.7647058823529\" y2=\"134.11764705882354\" idx=\"148\"/><line stroke-width=\"5\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"147\"/><line stroke-width=\"5\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"427.05882352941177\" y2=\"341.1764705882353\" idx=\"146\"/><line stroke-width=\"5\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"314.11764705882354\" y2=\"40\" idx=\"145\"/><line stroke-width=\"5\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"201.1764705882353\" y2=\"247.05882352941177\" idx=\"144\"/><line stroke-width=\"5\" x1=\"342.3529411764706\" y1=\"265.88235294117646\" x2=\"370.5882352941176\" y2=\"228.23529411764707\" idx=\"143\"/><line stroke-width=\"5\" x1=\"172.94117647058823\" y1=\"284.7058823529412\" x2=\"483.52941176470586\" y2=\"322.3529411764706\" idx=\"142\"/><line stroke-width=\"10\" x1=\"172.94117647058823\" y1=\"284.7058823529412\" x2=\"511.7647058823529\" y2=\"134.11764705882354\" idx=\"141\"/><line stroke-width=\"5\" x1=\"172.94117647058823\" y1=\"284.7058823529412\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"140\"/><line stroke-width=\"5\" x1=\"172.94117647058823\" y1=\"284.7058823529412\" x2=\"455.2941176470588\" y2=\"190.58823529411765\" idx=\"139\"/><line stroke-width=\"5\" x1=\"483.52941176470586\" y1=\"322.3529411764706\" x2=\"511.7647058823529\" y2=\"134.11764705882354\" idx=\"138\"/><line stroke-width=\"5\" x1=\"483.52941176470586\" y1=\"322.3529411764706\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"137\"/><line stroke-width=\"5\" x1=\"483.52941176470586\" y1=\"322.3529411764706\" x2=\"370.5882352941176\" y2=\"228.23529411764707\" idx=\"136\"/><line stroke-width=\"5\" x1=\"511.7647058823529\" y1=\"134.11764705882354\" x2=\"398.8235294117647\" y2=\"303.5294117647059\" idx=\"135\"/><line stroke-width=\"5\" x1=\"511.7647058823529\" y1=\"134.11764705882354\" x2=\"455.2941176470588\" y2=\"190.58823529411765\" idx=\"134\"/><line stroke-width=\"5\" x1=\"511.7647058823529\" y1=\"134.11764705882354\" x2=\"285.88235294117646\" y2=\"96.47058823529412\" idx=\"133\"/><line stroke-width=\"5\" x1=\"511.7647058823529\" y1=\"134.11764705882354\" x2=\"370.5882352941176\" y2=\"228.23529411764707\" idx=\"132\"/><line stroke-width=\"10\" x1=\"398.8235294117647\" y1=\"303.5294117647059\" x2=\"427.05882352941177\" y2=\"341.1764705882353\" idx=\"131\"/><line stroke-width=\"5\" x1=\"455.2941176470588\" y1=\"190.58823529411765\" x2=\"88.23529411764706\" y2=\"152.94117647058823\" idx=\"130\"/><line stroke-width=\"5\" x1=\"455.2941176470588\" y1=\"190.58823529411765\" x2=\"144.70588235294116\" y2=\"58.82352941176471\" idx=\"129\"/><line stroke-width=\"5\" x1=\"455.2941176470588\" y1=\"190.58823529411765\" x2=\"201.1764705882353\" y2=\"247.05882352941177\" idx=\"128\"/><line stroke-width=\"5\" x1=\"455.2941176470588\" y1=\"190.58823529411765\" x2=\"116.47058823529412\" y2=\"115.29411764705883\" idx=\"127\"/><line stroke-width=\"15\" x1=\"88.23529411764706\" y1=\"152.94117647058823\" x2=\"144.70588235294116\" y2=\"58.82352941176471\" idx=\"126\"/><line stroke-width=\"5\" x1=\"88.23529411764706\" y1=\"152.94117647058823\" x2=\"314.11764705882354\" y2=\"40\" idx=\"125\"/><line stroke-width=\"10\" x1=\"88.23529411764706\" y1=\"152.94117647058823\" x2=\"285.88235294117646\" y2=\"96.47058823529412\" idx=\"124\"/><line stroke-width=\"15\" x1=\"88.23529411764706\" y1=\"152.94117647058823\" x2=\"116.47058823529412\" y2=\"115.29411764705883\" idx=\"123\"/><line stroke-width=\"5\" x1=\"144.70588235294116\" y1=\"58.82352941176471\" x2=\"314.11764705882354\" y2=\"40\" idx=\"122\"/><line stroke-width=\"10\" x1=\"144.70588235294116\" y1=\"58.82352941176471\" x2=\"116.47058823529412\" y2=\"115.29411764705883\" idx=\"121\"/><line stroke-width=\"5\" x1=\"314.11764705882354\" y1=\"40\" x2=\"116.47058823529412\" y2=\"115.29411764705883\" idx=\"120\"/><line stroke-width=\"15\" x1=\"285.88235294117646\" y1=\"96.47058823529412\" x2=\"116.47058823529412\" y2=\"115.29411764705883\" idx=\"119\"/></g><g/><g><g transform=\"translate(257.6470588235294, 171.76470588235296)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"118\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"117\">B. H.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"4\" idx=\"116\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"115\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"114\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"13\" idx=\"113\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"112\"/></g></g><g transform=\"translate(60, 209.41176470588235)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"111\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"110\">Q. W.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"109\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"10\" idx=\"108\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"107\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"7\" idx=\"106\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"105\"/></g></g><g transform=\"translate(229.41176470588235, 77.64705882352942)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"104\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"103\">H. O.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"4\" idx=\"102\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"10\" idx=\"101\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"4\" idx=\"100\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"13\" idx=\"99\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"98\"/></g></g><g transform=\"translate(342.3529411764706, 265.88235294117646)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"97\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"96\">Y. Z.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"13\" idx=\"95\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"94\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"4\" idx=\"93\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"10\" idx=\"92\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"91\"/></g></g><g transform=\"translate(172.94117647058823, 284.7058823529412)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"90\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"89\">S. R.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"10\" idx=\"88\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"4\" idx=\"87\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"86\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"13\" idx=\"85\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"84\"/></g></g><g transform=\"translate(483.52941176470586, 322.3529411764706)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"83\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"82\">D. Z.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"13\" idx=\"81\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"80\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"10\" idx=\"79\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"10\" idx=\"78\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"77\"/></g></g><g transform=\"translate(511.7647058823529, 134.11764705882354)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"76\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"75\">J. W.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"4\" idx=\"74\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"73\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"4\" idx=\"72\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"16\" idx=\"71\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"70\"/></g></g><g transform=\"translate(398.8235294117647, 303.5294117647059)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"69\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"68\">J. D.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"67\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"4\" idx=\"66\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"65\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"16\" idx=\"64\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"63\"/></g></g><g transform=\"translate(455.2941176470588, 190.58823529411765)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"62\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"61\">C. D.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"13\" idx=\"60\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"10\" idx=\"59\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"4\" idx=\"58\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"7\" idx=\"57\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"56\"/></g></g><g transform=\"translate(88.23529411764706, 152.94117647058823)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"55\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"54\">Y. T.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"53\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"52\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"51\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"13\" idx=\"50\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"49\"/></g></g><g transform=\"translate(427.05882352941177, 341.1764705882353)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"48\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"47\">Z. T.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"46\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"45\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"10\" idx=\"44\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"13\" idx=\"43\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"42\"/></g></g><g transform=\"translate(144.70588235294116, 58.82352941176471)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"41\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"40\">S. Q.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"39\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"10\" idx=\"38\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"37\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"10\" idx=\"36\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"35\"/></g></g><g transform=\"translate(314.11764705882354, 40)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"34\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"33\">W. F.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"13\" idx=\"32\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"31\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"7\" idx=\"30\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"7\" idx=\"29\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"28\"/></g></g><g transform=\"translate(201.1764705882353, 247.05882352941177)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"27\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"26\">S. C. K.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"25\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"16\" idx=\"24\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"4\" idx=\"23\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"7\" idx=\"22\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"21\"/></g></g><g transform=\"translate(285.88235294117646, 96.47058823529412)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"20\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"19\">T. S.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"4\" idx=\"18\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"7\" idx=\"17\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"13\" idx=\"16\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"10\" idx=\"15\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"7\" idx=\"14\"/></g></g><g transform=\"translate(370.5882352941176, 228.23529411764707)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"13\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"12\">B. J.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"10\" idx=\"11\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"4\" idx=\"10\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"13\" idx=\"9\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"7\" idx=\"8\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"7\"/></g></g><g transform=\"translate(116.47058823529412, 115.29411764705883)\"><rect x=\"-20\" y=\"-20\" height=\"40\" width=\"40\" fill=\"#ffffff\" stroke=\"#000000\" stroke-width=\"2.5\" idx=\"6\"/><text y=\"-16\" text-anchor=\"middle\" alignment-baseline=\"hanging\" fill=\"#000000\" style=\"font-size:10px;\" idx=\"5\">L. A.</text><g transform=\"scale(1, -1)translate(0, -16)\"><rect x=\"-12\" y=\"0\" width=\"5\" height=\"7\" idx=\"4\"/><rect x=\"-6\" y=\"0\" width=\"5\" height=\"10\" idx=\"3\"/><rect x=\"0\" y=\"0\" width=\"5\" height=\"13\" idx=\"2\"/><rect x=\"6\" y=\"0\" width=\"5\" height=\"4\" idx=\"1\"/><rect x=\"12\" y=\"0\" width=\"5\" height=\"4\" idx=\"0\"/></g></g></g></svg>",
+    "descriptions": [
+        {
+            "parameters": [
+                { "type": "entity-parameter", "value": "node" },
+                { "type": "value-parameter", "value": 6 }
+            ],
+            "elementsIdx": [
+                115, 117, 113, 114, 116, 112, 106, 109, 110, 107, 108, 105, 100,
+                103, 99, 101, 102, 98, 92, 93, 95, 96, 94, 91, 84, 87, 88, 89,
+                85, 86, 77, 78, 79, 81, 82, 80, 71, 72, 75, 73, 74, 70, 63, 64,
+                66, 68, 67, 65, 56, 58, 60, 61, 57, 59, 54, 52, 53, 50, 51, 49,
+                42, 44, 47, 45, 46, 43, 35, 36, 40, 39, 37, 38, 28, 32, 33, 29,
+                31, 30, 21, 23, 24, 26, 22, 25, 15, 16, 19, 17, 18, 14, 7, 9,
+                10, 11, 12, 8, 0, 1, 2, 5, 4, 3
+            ],
+            "switch": true,
+            "children": [
+                {
+                    "parameters": [
+                        "first",
+                        {
+                            "type": "element-parameter",
+                            "value": "&lt;rectangle&gt;"
+                        }
+                    ],
+                    "elementsIdx": [
+                        4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95,
+                        102, 109, 116
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["height"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "number_of_movies_in_year@2016"
+                                }
+                            ],
+                            "elementsIdx": [
+                                4, 11, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81,
+                                88, 95, 102, 109, 116
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "height"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "number_of_movies_in_year@2016"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        4, 11, 18, 25, 32, 39, 46, 53, 60, 67,
+                                        74, 81, 88, 95, 102, 109, 116
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2016]</span>, the greater📈 its <span class='description-parameter channel-parameter'>height</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>height</span> encodes the attribute <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2016]</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>first</span> element is a <span class='description-parameter element-parameter'>&lt;rectangle&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "second",
+                        {
+                            "type": "element-parameter",
+                            "value": "&lt;rectangle&gt;"
+                        }
+                    ],
+                    "elementsIdx": [
+                        3, 10, 17, 24, 31, 38, 45, 52, 59, 66, 73, 80, 87, 94,
+                        101, 108, 115
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["height"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "number_of_movies_in_year@2017"
+                                }
+                            ],
+                            "elementsIdx": [
+                                3, 10, 17, 24, 31, 38, 45, 52, 59, 66, 73, 80,
+                                87, 94, 101, 108, 115
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "height"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "number_of_movies_in_year@2017"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        3, 10, 17, 24, 31, 38, 45, 52, 59, 66,
+                                        73, 80, 87, 94, 101, 108, 115
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2017]</span>, the greater📈 its <span class='description-parameter channel-parameter'>height</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>height</span> encodes the attribute <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2017]</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>second</span> element is a <span class='description-parameter element-parameter'>&lt;rectangle&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "third",
+                        {
+                            "type": "element-parameter",
+                            "value": "&lt;rectangle&gt;"
+                        }
+                    ],
+                    "elementsIdx": [
+                        2, 9, 16, 23, 30, 37, 44, 51, 58, 65, 72, 79, 86, 93,
+                        100, 107, 114
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["height"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "number_of_movies_in_year@2018"
+                                }
+                            ],
+                            "elementsIdx": [
+                                2, 9, 16, 23, 30, 37, 44, 51, 58, 65, 72, 79,
+                                86, 93, 100, 107, 114
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "height"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "number_of_movies_in_year@2018"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        2, 9, 16, 23, 30, 37, 44, 51, 58, 65,
+                                        72, 79, 86, 93, 100, 107, 114
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2018]</span>, the greater📈 its <span class='description-parameter channel-parameter'>height</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>height</span> encodes the attribute <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2018]</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>third</span> element is a <span class='description-parameter element-parameter'>&lt;rectangle&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "fourth",
+                        {
+                            "type": "element-parameter",
+                            "value": "&lt;rectangle&gt;"
+                        }
+                    ],
+                    "elementsIdx": [
+                        1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78, 85, 92,
+                        99, 106, 113
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["height"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "number_of_movies_in_year@2019"
+                                }
+                            ],
+                            "elementsIdx": [
+                                1, 8, 15, 22, 29, 36, 43, 50, 57, 64, 71, 78,
+                                85, 92, 99, 106, 113
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "height"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "number_of_movies_in_year@2019"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        1, 8, 15, 22, 29, 36, 43, 50, 57, 64,
+                                        71, 78, 85, 92, 99, 106, 113
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2019]</span>, the greater📈 its <span class='description-parameter channel-parameter'>height</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>height</span> encodes the attribute <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2019]</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>fourth</span> element is a <span class='description-parameter element-parameter'>&lt;rectangle&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "fifth",
+                        {
+                            "type": "element-parameter",
+                            "value": "&lt;rectangle&gt;"
+                        }
+                    ],
+                    "elementsIdx": [
+                        0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91,
+                        98, 105, 112
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["height"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "number_of_movies_in_year@2020"
+                                }
+                            ],
+                            "elementsIdx": [
+                                0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77,
+                                84, 91, 98, 105, 112
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "height"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "number_of_movies_in_year@2020"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        0, 7, 14, 21, 28, 35, 42, 49, 56, 63,
+                                        70, 77, 84, 91, 98, 105, 112
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2020]</span>, the greater📈 its <span class='description-parameter channel-parameter'>height</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>height</span> encodes the attribute <span class='description-parameter attribute-parameter'>number_of_movies_in_year[2020]</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>fifth</span> element is a <span class='description-parameter element-parameter'>&lt;rectangle&gt;</span>."
+                },
+                {
+                    "parameters": [
+                        "sixth",
+                        { "type": "element-parameter", "value": "&lt;text&gt;" }
+                    ],
+                    "elementsIdx": [
+                        5, 12, 19, 26, 33, 40, 47, 54, 61, 68, 75, 82, 89, 96,
+                        103, 110, 117
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["textContent"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "name"
+                                }
+                            ],
+                            "elementsIdx": [
+                                5, 12, 19, 26, 33, 40, 47, 54, 61, 68, 75, 82,
+                                89, 96, 103, 110, 117
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "B. H."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Bo Huang"]
+                                        }
+                                    ],
+                                    "elementsIdx": [117],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Bo Huang</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>B. H.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "Q. W."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Qianyuan Wang"]
+                                        }
+                                    ],
+                                    "elementsIdx": [110],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Qianyuan Wang</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>Q. W.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "H. O."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Hao Ou"]
+                                        }
+                                    ],
+                                    "elementsIdx": [103],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Hao Ou</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>H. O.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "Y. Z."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Yi Zhang"]
+                                        }
+                                    ],
+                                    "elementsIdx": [96],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Yi Zhang</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>Y. Z.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "S. R."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Suxi Ren"]
+                                        }
+                                    ],
+                                    "elementsIdx": [89],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Suxi Ren</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>S. R.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "D. Z."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Dongyu Zhou"]
+                                        }
+                                    ],
+                                    "elementsIdx": [82],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Dongyu Zhou</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>D. Z.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "J. W."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Jing Wu"]
+                                        }
+                                    ],
+                                    "elementsIdx": [75],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Jing Wu</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>J. W.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "J. D."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Jiang Du"]
+                                        }
+                                    ],
+                                    "elementsIdx": [68],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Jiang Du</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>J. D.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "C. D."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Chao Deng"]
+                                        }
+                                    ],
+                                    "elementsIdx": [61],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Chao Deng</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>C. D.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "Y. T."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Yu Tian"]
+                                        }
+                                    ],
+                                    "elementsIdx": [54],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Yu Tian</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>Y. T.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "Z. T."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Zhuo Tan"]
+                                        }
+                                    ],
+                                    "elementsIdx": [47],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Zhuo Tan</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>Z. T.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "S. Q."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Shan Qiao"]
+                                        }
+                                    ],
+                                    "elementsIdx": [40],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Shan Qiao</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>S. Q.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "W. F."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Wei Fan"]
+                                        }
+                                    ],
+                                    "elementsIdx": [33],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Wei Fan</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>W. F.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "S. C. K."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Shih-Chieh King"]
+                                        }
+                                    ],
+                                    "elementsIdx": [26],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Shih-Chieh King</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>S. C. K.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "T. S."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Teng Shen"]
+                                        }
+                                    ],
+                                    "elementsIdx": [19],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Teng Shen</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>T. S.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "B. J."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Boran Jing"]
+                                        }
+                                    ],
+                                    "elementsIdx": [12],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Boran Jing</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>B. J.</span>."
+                                },
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "textContent"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "name"
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": "L. A."
+                                        },
+                                        {
+                                            "type": "value-parameter",
+                                            "value": ["Lun Ai"]
+                                        }
+                                    ],
+                                    "elementsIdx": [5],
+                                    "content": "When the value of <span class='description-parameter attribute-parameter'>name</span> is <span class='description-parameter value-parameter'>Lun Ai</span>, its <span class='description-parameter channel-parameter'>text</span> is changed into <span class='description-parameter value-parameter'>L. A.</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>text</span> encodes the attribute <span class='description-parameter attribute-parameter'>name</span>."
+                        }
+                    ],
+                    "content": "The <span class='description-parameter '>sixth</span> element is a <span class='description-parameter element-parameter'>&lt;text&gt;</span>."
+                }
+            ],
+            "content": "Each <span class='description-parameter entity-parameter'>node</span> consists of  <span class='description-parameter value-parameter'>6</span> different elements."
+        },
+        {
+            "parameters": [
+                { "type": "entity-parameter", "value": "link" },
+                { "type": "value-parameter", "value": 1 }
+            ],
+            "elementsIdx": [
+                173, 172, 171, 170, 169, 168, 167, 166, 165, 164, 163, 162, 161,
+                160, 159, 158, 157, 156, 155, 154, 153, 152, 151, 150, 149, 148,
+                147, 146, 145, 144, 143, 142, 141, 140, 139, 138, 137, 136, 135,
+                134, 133, 132, 131, 130, 129, 128, 127, 126, 125, 124, 123, 122,
+                121, 120, 119
+            ],
+            "switch": true,
+            "children": [
+                {
+                    "parameters": [
+                        "first",
+                        { "type": "element-parameter", "value": "&lt;line&gt;" }
+                    ],
+                    "elementsIdx": [
+                        119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129,
+                        130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140,
+                        141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151,
+                        152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162,
+                        163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173
+                    ],
+                    "switch": true,
+                    "children": [
+                        {
+                            "parameters": [
+                                {
+                                    "type": "channel-parameter",
+                                    "value": ["stroke-width"]
+                                },
+                                {
+                                    "type": "attribute-parameter",
+                                    "value": "number_of_common_movies"
+                                }
+                            ],
+                            "elementsIdx": [
+                                119, 120, 121, 122, 123, 124, 125, 126, 127,
+                                128, 129, 130, 131, 132, 133, 134, 135, 136,
+                                137, 138, 139, 140, 141, 142, 143, 144, 145,
+                                146, 147, 148, 149, 150, 151, 152, 153, 154,
+                                155, 156, 157, 158, 159, 160, 161, 162, 163,
+                                164, 165, 166, 167, 168, 169, 170, 171, 172, 173
+                            ],
+                            "switch": false,
+                            "children": [
+                                {
+                                    "parameters": [
+                                        {
+                                            "type": "channel-parameter",
+                                            "value": "stroke-width"
+                                        },
+                                        {
+                                            "type": "attribute-parameter",
+                                            "value": "number_of_common_movies"
+                                        }
+                                    ],
+                                    "elementsIdx": [
+                                        119, 120, 121, 122, 123, 124, 125, 126,
+                                        127, 128, 129, 130, 131, 132, 133, 134,
+                                        135, 136, 137, 138, 139, 140, 141, 142,
+                                        143, 144, 145, 146, 147, 148, 149, 150,
+                                        151, 152, 153, 154, 155, 156, 157, 158,
+                                        159, 160, 161, 162, 163, 164, 165, 166,
+                                        167, 168, 169, 170, 171, 172, 173
+                                    ],
+                                    "content": "The greater <span class='description-parameter attribute-parameter'>number_of_common_movies</span>, the greater📈 its <span class='description-parameter channel-parameter'>thickness</span>."
+                                }
+                            ],
+                            "content": "Its <span class='description-parameter channel-parameter'>thickness</span> encodes the attribute <span class='description-parameter attribute-parameter'>number_of_common_movies</span>."
+                        }
+                    ],
+                    "content": "It is a <span class='description-parameter element-parameter'>&lt;line&gt;</span>."
+                }
+            ],
+            "content": "Each <span class='description-parameter entity-parameter'>link</span> consists of only <span class='description-parameter value-parameter'>1</span>  element."
+        }
+    ],
+    "layoutDescriptions": [
+        {
+            "parameters": [
+                { "type": "channel-parameter", "value": "x" },
+                { "type": "attribute-parameter", "value": ["votes"] }
+            ],
+            "elementsIdx": [
+                0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19,
+                21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38,
+                39, 40, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 56, 57,
+                58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 70, 71, 72, 73, 74, 75,
+                77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94,
+                95, 96, 98, 99, 100, 101, 102, 103, 105, 106, 107, 108, 109,
+                110, 112, 113, 114, 115, 116, 117
+            ],
+            "children": [
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "x" },
+                        { "type": "attribute-parameter", "value": "votes" }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154,
+                        155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165,
+                        166, 167, 168, 169, 170, 171, 172, 173
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>votes</span> is, the greater📈 the <span class='description-parameter channel-parameter'>x</span>-coordinate is."
+                }
+            ],
+            "content": "The <span class='description-parameter channel-parameter'>x</span>-coordinate encodes the attributes <span class='description-parameter attribute-parameter'>votes</span>"
+        },
+        {
+            "parameters": [
+                { "type": "channel-parameter", "value": "y" },
+                { "type": "attribute-parameter", "value": ["avg_vote"] }
+            ],
+            "elementsIdx": [
+                0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19,
+                21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38,
+                39, 40, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 56, 57,
+                58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 70, 71, 72, 73, 74, 75,
+                77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94,
+                95, 96, 98, 99, 100, 101, 102, 103, 105, 106, 107, 108, 109,
+                110, 112, 113, 114, 115, 116, 117
+            ],
+            "children": [
+                {
+                    "parameters": [
+                        { "type": "channel-parameter", "value": "y" },
+                        { "type": "attribute-parameter", "value": "avg_vote" }
+                    ],
+                    "elementsIdx": [
+                        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
+                        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+                        30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+                        44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+                        58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+                        72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+                        86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+                        100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110,
+                        111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121,
+                        122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132,
+                        133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143,
+                        144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154,
+                        155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165,
+                        166, 167, 168, 169, 170, 171, 172, 173
+                    ],
+                    "content": "The greater the <span class='description-parameter attribute-parameter'>avg_vote</span> is, the greater📈 the <span class='description-parameter channel-parameter'>y</span>-coordinate is."
+                }
+            ],
+            "content": "The <span class='description-parameter channel-parameter'>y</span>-coordinate encodes the attributes <span class='description-parameter attribute-parameter'>avg_vote</span>"
+        }
+    ],
+    "elementInfo": [
+        { "entityType": "node", "entityIndex": 16, "label": 6 },
+        { "entityType": "node", "entityIndex": 16, "label": 1 },
+        { "entityType": "node", "entityIndex": 16, "label": 5 },
+        { "entityType": "node", "entityIndex": 16, "label": 2 },
+        { "entityType": "node", "entityIndex": 16, "label": 3 },
+        { "entityType": "node", "entityIndex": 16, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 15, "label": 6 },
+        { "entityType": "node", "entityIndex": 15, "label": 1 },
+        { "entityType": "node", "entityIndex": 15, "label": 5 },
+        { "entityType": "node", "entityIndex": 15, "label": 2 },
+        { "entityType": "node", "entityIndex": 15, "label": 3 },
+        { "entityType": "node", "entityIndex": 15, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 14, "label": 6 },
+        { "entityType": "node", "entityIndex": 14, "label": 1 },
+        { "entityType": "node", "entityIndex": 14, "label": 5 },
+        { "entityType": "node", "entityIndex": 14, "label": 2 },
+        { "entityType": "node", "entityIndex": 14, "label": 3 },
+        { "entityType": "node", "entityIndex": 14, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 13, "label": 6 },
+        { "entityType": "node", "entityIndex": 13, "label": 1 },
+        { "entityType": "node", "entityIndex": 13, "label": 5 },
+        { "entityType": "node", "entityIndex": 13, "label": 2 },
+        { "entityType": "node", "entityIndex": 13, "label": 3 },
+        { "entityType": "node", "entityIndex": 13, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 12, "label": 6 },
+        { "entityType": "node", "entityIndex": 12, "label": 1 },
+        { "entityType": "node", "entityIndex": 12, "label": 5 },
+        { "entityType": "node", "entityIndex": 12, "label": 2 },
+        { "entityType": "node", "entityIndex": 12, "label": 3 },
+        { "entityType": "node", "entityIndex": 12, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 11, "label": 6 },
+        { "entityType": "node", "entityIndex": 11, "label": 1 },
+        { "entityType": "node", "entityIndex": 11, "label": 5 },
+        { "entityType": "node", "entityIndex": 11, "label": 2 },
+        { "entityType": "node", "entityIndex": 11, "label": 3 },
+        { "entityType": "node", "entityIndex": 11, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 10, "label": 6 },
+        { "entityType": "node", "entityIndex": 10, "label": 1 },
+        { "entityType": "node", "entityIndex": 10, "label": 5 },
+        { "entityType": "node", "entityIndex": 10, "label": 2 },
+        { "entityType": "node", "entityIndex": 10, "label": 3 },
+        { "entityType": "node", "entityIndex": 10, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 9, "label": 6 },
+        { "entityType": "node", "entityIndex": 9, "label": 1 },
+        { "entityType": "node", "entityIndex": 9, "label": 5 },
+        { "entityType": "node", "entityIndex": 9, "label": 2 },
+        { "entityType": "node", "entityIndex": 9, "label": 3 },
+        { "entityType": "node", "entityIndex": 9, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 8, "label": 6 },
+        { "entityType": "node", "entityIndex": 8, "label": 1 },
+        { "entityType": "node", "entityIndex": 8, "label": 5 },
+        { "entityType": "node", "entityIndex": 8, "label": 2 },
+        { "entityType": "node", "entityIndex": 8, "label": 3 },
+        { "entityType": "node", "entityIndex": 8, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 7, "label": 6 },
+        { "entityType": "node", "entityIndex": 7, "label": 1 },
+        { "entityType": "node", "entityIndex": 7, "label": 5 },
+        { "entityType": "node", "entityIndex": 7, "label": 2 },
+        { "entityType": "node", "entityIndex": 7, "label": 3 },
+        { "entityType": "node", "entityIndex": 7, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 6, "label": 6 },
+        { "entityType": "node", "entityIndex": 6, "label": 1 },
+        { "entityType": "node", "entityIndex": 6, "label": 5 },
+        { "entityType": "node", "entityIndex": 6, "label": 2 },
+        { "entityType": "node", "entityIndex": 6, "label": 3 },
+        { "entityType": "node", "entityIndex": 6, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 5, "label": 6 },
+        { "entityType": "node", "entityIndex": 5, "label": 1 },
+        { "entityType": "node", "entityIndex": 5, "label": 5 },
+        { "entityType": "node", "entityIndex": 5, "label": 2 },
+        { "entityType": "node", "entityIndex": 5, "label": 3 },
+        { "entityType": "node", "entityIndex": 5, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 4, "label": 6 },
+        { "entityType": "node", "entityIndex": 4, "label": 1 },
+        { "entityType": "node", "entityIndex": 4, "label": 5 },
+        { "entityType": "node", "entityIndex": 4, "label": 2 },
+        { "entityType": "node", "entityIndex": 4, "label": 3 },
+        { "entityType": "node", "entityIndex": 4, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 3, "label": 6 },
+        { "entityType": "node", "entityIndex": 3, "label": 1 },
+        { "entityType": "node", "entityIndex": 3, "label": 5 },
+        { "entityType": "node", "entityIndex": 3, "label": 2 },
+        { "entityType": "node", "entityIndex": 3, "label": 3 },
+        { "entityType": "node", "entityIndex": 3, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 2, "label": 6 },
+        { "entityType": "node", "entityIndex": 2, "label": 1 },
+        { "entityType": "node", "entityIndex": 2, "label": 5 },
+        { "entityType": "node", "entityIndex": 2, "label": 2 },
+        { "entityType": "node", "entityIndex": 2, "label": 3 },
+        { "entityType": "node", "entityIndex": 2, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 1, "label": 6 },
+        { "entityType": "node", "entityIndex": 1, "label": 1 },
+        { "entityType": "node", "entityIndex": 1, "label": 5 },
+        { "entityType": "node", "entityIndex": 1, "label": 2 },
+        { "entityType": "node", "entityIndex": 1, "label": 3 },
+        { "entityType": "node", "entityIndex": 1, "label": 4 },
+        null,
+        { "entityType": "node", "entityIndex": 0, "label": 6 },
+        { "entityType": "node", "entityIndex": 0, "label": 1 },
+        { "entityType": "node", "entityIndex": 0, "label": 5 },
+        { "entityType": "node", "entityIndex": 0, "label": 2 },
+        { "entityType": "node", "entityIndex": 0, "label": 3 },
+        { "entityType": "node", "entityIndex": 0, "label": 4 },
+        null,
+        { "entityType": "link", "entityIndex": 54, "label": 1 },
+        { "entityType": "link", "entityIndex": 53, "label": 1 },
+        { "entityType": "link", "entityIndex": 52, "label": 1 },
+        { "entityType": "link", "entityIndex": 51, "label": 1 },
+        { "entityType": "link", "entityIndex": 50, "label": 1 },
+        { "entityType": "link", "entityIndex": 49, "label": 1 },
+        { "entityType": "link", "entityIndex": 48, "label": 1 },
+        { "entityType": "link", "entityIndex": 47, "label": 1 },
+        { "entityType": "link", "entityIndex": 46, "label": 1 },
+        { "entityType": "link", "entityIndex": 45, "label": 1 },
+        { "entityType": "link", "entityIndex": 44, "label": 1 },
+        { "entityType": "link", "entityIndex": 43, "label": 1 },
+        { "entityType": "link", "entityIndex": 42, "label": 1 },
+        { "entityType": "link", "entityIndex": 41, "label": 1 },
+        { "entityType": "link", "entityIndex": 40, "label": 1 },
+        { "entityType": "link", "entityIndex": 39, "label": 1 },
+        { "entityType": "link", "entityIndex": 38, "label": 1 },
+        { "entityType": "link", "entityIndex": 37, "label": 1 },
+        { "entityType": "link", "entityIndex": 36, "label": 1 },
+        { "entityType": "link", "entityIndex": 35, "label": 1 },
+        { "entityType": "link", "entityIndex": 34, "label": 1 },
+        { "entityType": "link", "entityIndex": 33, "label": 1 },
+        { "entityType": "link", "entityIndex": 32, "label": 1 },
+        { "entityType": "link", "entityIndex": 31, "label": 1 },
+        { "entityType": "link", "entityIndex": 30, "label": 1 },
+        { "entityType": "link", "entityIndex": 29, "label": 1 },
+        { "entityType": "link", "entityIndex": 28, "label": 1 },
+        { "entityType": "link", "entityIndex": 27, "label": 1 },
+        { "entityType": "link", "entityIndex": 26, "label": 1 },
+        { "entityType": "link", "entityIndex": 25, "label": 1 },
+        { "entityType": "link", "entityIndex": 24, "label": 1 },
+        { "entityType": "link", "entityIndex": 23, "label": 1 },
+        { "entityType": "link", "entityIndex": 22, "label": 1 },
+        { "entityType": "link", "entityIndex": 21, "label": 1 },
+        { "entityType": "link", "entityIndex": 20, "label": 1 },
+        { "entityType": "link", "entityIndex": 19, "label": 1 },
+        { "entityType": "link", "entityIndex": 18, "label": 1 },
+        { "entityType": "link", "entityIndex": 17, "label": 1 },
+        { "entityType": "link", "entityIndex": 16, "label": 1 },
+        { "entityType": "link", "entityIndex": 15, "label": 1 },
+        { "entityType": "link", "entityIndex": 14, "label": 1 },
+        { "entityType": "link", "entityIndex": 13, "label": 1 },
+        { "entityType": "link", "entityIndex": 12, "label": 1 },
+        { "entityType": "link", "entityIndex": 11, "label": 1 },
+        { "entityType": "link", "entityIndex": 10, "label": 1 },
+        { "entityType": "link", "entityIndex": 9, "label": 1 },
+        { "entityType": "link", "entityIndex": 8, "label": 1 },
+        { "entityType": "link", "entityIndex": 7, "label": 1 },
+        { "entityType": "link", "entityIndex": 6, "label": 1 },
+        { "entityType": "link", "entityIndex": 5, "label": 1 },
+        { "entityType": "link", "entityIndex": 4, "label": 1 },
+        { "entityType": "link", "entityIndex": 3, "label": 1 },
+        { "entityType": "link", "entityIndex": 2, "label": 1 },
+        { "entityType": "link", "entityIndex": 1, "label": 1 },
+        { "entityType": "link", "entityIndex": 0, "label": 1 }
+    ],
+    "label2Encodings": {
+        "node": {
+            "1": {
+                "number_of_movies_in_year@2019": {
+                    "style": {
+                        "height": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999998
+                        }
+                    }
+                }
+            },
+            "2": {
+                "number_of_movies_in_year@2017": {
+                    "style": {
+                        "height": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999997
+                        }
+                    }
+                }
+            },
+            "3": {
+                "number_of_movies_in_year@2016": {
+                    "style": {
+                        "height": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 1.0000000000000002
+                        }
+                    }
+                }
+            },
+            "4": {
+                "name": {
+                    "style": {
+                        "textContent": {
+                            "typeX": "categorical",
+                            "typeY": "categorical",
+                            "attributeMapping": {
+                                "B. H.": ["Bo Huang"],
+                                "Q. W.": ["Qianyuan Wang"],
+                                "H. O.": ["Hao Ou"],
+                                "Y. Z.": ["Yi Zhang"],
+                                "S. R.": ["Suxi Ren"],
+                                "D. Z.": ["Dongyu Zhou"],
+                                "J. W.": ["Jing Wu"],
+                                "J. D.": ["Jiang Du"],
+                                "C. D.": ["Chao Deng"],
+                                "Y. T.": ["Yu Tian"],
+                                "Z. T.": ["Zhuo Tan"],
+                                "S. Q.": ["Shan Qiao"],
+                                "W. F.": ["Wei Fan"],
+                                "S. C. K.": ["Shih-Chieh King"],
+                                "T. S.": ["Teng Shen"],
+                                "B. J.": ["Boran Jing"],
+                                "L. A.": ["Lun Ai"]
+                            }
+                        }
+                    }
+                }
+            },
+            "5": {
+                "number_of_movies_in_year@2018": {
+                    "style": {
+                        "height": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 0.9999999999999999
+                        }
+                    }
+                }
+            },
+            "6": {
+                "number_of_movies_in_year@2020": {
+                    "style": {
+                        "height": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 1
+                        }
+                    }
+                }
+            }
+        },
+        "link": {
+            "1": {
+                "number_of_common_movies": {
+                    "style": {
+                        "stroke-width": {
+                            "typeX": "numerical",
+                            "typeY": "numerical",
+                            "correlation": 1.0000000000000009
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
